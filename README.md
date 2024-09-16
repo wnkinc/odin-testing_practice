@@ -1,3 +1,2 @@
-# Odin-template
+# odin-testing_practice
 
-LIVE PREVIEW - http://wnkinc.github.io/Odin-template
